@@ -1,18 +1,21 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14587479&assignment_repo_type=AssignmentRepo)
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 Final Project  << Semester, Year >>
+Plinko Simulation
+## CS110 Final Project  Spring, 2024
 
 ## Team Members
 
-<< List team member names >>
+Lucy Canick
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+The game plinko begins with a player dropping a token into a slot atop a vertical board with pegs. The pathway the token takes as it travels downward is based upon how it bounces off of each successive peg. The token eventually lands in one of several "buckets" at the bottom of the board, each one traditionally representing a different sum of money that the player wins if his or her token lands there. 
+
+For my final project, I'll be creating a simulation of a plinko game in which the user can drop tokens onto the virtual board and score points based on the trajectory of those tokens. 
 
 ***    
 
@@ -30,11 +33,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Plinko board
+2. Token which moves through board
+3. Mathematical algorithm to decide which way the token travels
+4. Buckets for tokens to land in; special effects when points are scored
+5. Score counter
 
 ### Classes
 
